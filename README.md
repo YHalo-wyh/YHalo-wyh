@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone 👋, I'm YHalo</h1>
+<h1 align="center">Hi 👋, I'm YHalo</h1>
 
 <p align="center">
   🧑‍💻 A down-to-earth university student who can't stop exploring the digital world.<br>
