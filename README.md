@@ -28,15 +28,10 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <!-- 主卡片（加缓存，避免炸） -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YHalo-wyh&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YHalo-wyh&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
-  <br /><br />
-  <!-- 备用：总 Star 徽章（即使上面挂了也能显示） -->
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FYHalo-wyh" alt="Total Stars" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=YHalo-wyh&show_icons=true&theme=radical&cache_seconds=86400&v=2" alt="GitHub Stats" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YHalo-wyh&layout=compact&theme=radical&cache_seconds=86400&v=2" alt="Top Languages" />
+
 
 
 ### 💡 Fun Fact
