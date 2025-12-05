@@ -34,12 +34,6 @@
 
 
 
-### 💡 Fun Fact
-
-> Some say I once typed `sudo rm -rf /` by accident and ended up learning Linux the hard way.  
-> Others just call me **YHalo**.
-
----
 
 ### 📫 How to Reach Me
 
