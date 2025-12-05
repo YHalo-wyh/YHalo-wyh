@@ -28,9 +28,8 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YHalo-wyh&show_icons=true&theme=radical&cache_seconds=86400&v=2" alt="GitHub Stats" />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YHalo-wyh&layout=compact&theme=radical&cache_seconds=86400&v=2" alt="Top Languages" />
+<img src="https://readme-stats-pearl-kappa.vercel.app/api?username=YHalo-wyh&show_icons=true&theme=radical&cache_seconds=86400&v=2" alt="GitHub Stats" />
+<img src="https://readme-stats-pearl-kappa.vercel.app/api/top-langs/?username=YHalo-wyh&layout=compact&theme=radical&cache_seconds=86400&v=2" alt="Top Languages" />
 
 
 
